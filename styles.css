@@ -59,6 +59,7 @@ span {
     position: absolute;
     padding: 50px 50px;
     top: 300px;
+    left: 0;
 }
 
 .row {
